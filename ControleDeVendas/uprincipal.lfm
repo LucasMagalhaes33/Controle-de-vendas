@@ -1,0 +1,34 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 262
+  Height = 240
+  Top = 127
+  Width = 320
+  Caption = 'Controle de vendas'
+  Menu = MainMenu1
+  LCLVersion = '2.0.12.0'
+  object MainMenu1: TMainMenu
+    Left = 73
+    Top = 52
+    object MenuItem1: TMenuItem
+      Caption = 'CADASTROS'
+      object MenuItem2: TMenuItem
+        Caption = 'CLIENTES'
+        OnClick = MenuItem2Click
+      end
+      object MenuItem3: TMenuItem
+        Caption = 'FORNECEDORES'
+        OnClick = MenuItem3Click
+      end
+      object MenuItem4: TMenuItem
+        Caption = 'GRUPO DE PRODUTOS'
+        OnClick = MenuItem4Click
+      end
+      object MenuItem5: TMenuItem
+        Caption = 'PRODUTOS'
+      end
+      object MenuItem6: TMenuItem
+        Caption = 'FORMA DE PAGAMENTO'
+      end
+    end
+  end
+end

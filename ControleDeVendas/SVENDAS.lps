@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="SVENDAS.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPrincipal"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uPrincipal"/>
+        <TopLine Value="31"/>
+        <CursorPos X="3" Y="52"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="utabglobal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TabGlobal"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uTABGLOBAL"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="132"/>
+        <CursorPos X="73" Y="153"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="ucliente.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmClientes"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uCliente"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="44"/>
+        <CursorPos X="35" Y="65"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="ufornecedor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmFornecedor"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uFornecedor"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="43"/>
+        <CursorPos X="33" Y="57"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\lresources.pp"/>
+        <UnitName Value="LResources"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2525"/>
+        <CursorPos Y="2537"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="ugrupo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGrupo"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uGrupo"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="32"/>
+        <CursorPos X="52" Y="50"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="ucliente.pas"/>
+        <Caret Line="9" Column="21" TopLine="4"/>
+      </Position1>
+      <Position2>
+        <Filename Value="utabglobal.pas"/>
+        <Caret Line="32" Column="60" TopLine="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ucliente.pas"/>
+        <Caret Line="20" Column="98"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ucliente.pas"/>
+        <Caret Line="21" Column="98"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ucliente.pas"/>
+        <Caret Line="64" Column="29" TopLine="39"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="34" Column="30" TopLine="18"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ufornecedor.pas"/>
+        <Caret Line="5" Column="19"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ucliente.pas"/>
+        <Caret Line="57" Column="46" TopLine="44"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ufornecedor.pas"/>
+        <Caret Line="14" Column="103"/>
+      </Position9>
+      <Position10>
+        <Filename Value="utabglobal.pas"/>
+        <Caret Line="127" Column="18" TopLine="117"/>
+      </Position10>
+      <Position11>
+        <Filename Value="utabglobal.pas"/>
+        <Caret Line="151" Column="51" TopLine="144"/>
+      </Position11>
+      <Position12>
+        <Filename Value="utabglobal.pas"/>
+        <Caret Line="136" Column="34" TopLine="132"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="35" Column="38" TopLine="26"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="22" Column="21"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="50" Column="21" TopLine="25"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="49" Column="21" TopLine="24"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="48" Column="21" TopLine="24"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="47" Column="21" TopLine="24"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="46" Column="21" TopLine="23"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="45" Column="21" TopLine="22"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="44" Column="21" TopLine="22"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="43" Column="21" TopLine="21"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="42" Column="21" TopLine="21"/>
+      </Position23>
+      <Position24>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="41" Column="21" TopLine="20"/>
+      </Position24>
+      <Position25>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="40" Column="21" TopLine="19"/>
+      </Position25>
+      <Position26>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="39" Column="21" TopLine="18"/>
+      </Position26>
+      <Position27>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="38" Column="21" TopLine="17"/>
+      </Position27>
+      <Position28>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="39" Column="21" TopLine="17"/>
+      </Position28>
+      <Position29>
+        <Filename Value="ugrupo.pas"/>
+        <Caret Line="46" Column="18" TopLine="32"/>
+      </Position29>
+      <Position30>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="52" Column="22" TopLine="31"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
